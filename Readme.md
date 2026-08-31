@@ -1,4 +1,4 @@
-# Music-Frequency-Spectrum —— STM32F103C8T6 音频频谱分析仪 项目分析
+# Music-Frequency-Spectrum —— STM32F103C8T6 音频频谱分析仪
 
 > 平台：STM32F103C8T6
 > 工具链：STM32CubeMX 6.9.2 + STM32Cube FW_F1 V1.8.5 + MDK-ARM V5.32
