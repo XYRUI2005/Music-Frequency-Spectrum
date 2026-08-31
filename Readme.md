@@ -1,4 +1,4 @@
-# Spectral Music —— STM32F103 音频频谱分析仪 项目分析
+# Music-Frequency-Spectrum —— STM32F103 音频频谱分析仪 项目分析
 
 > 分析日期：2026-08-31
 > 平台：STM32F103C8T6（LQFP48）
